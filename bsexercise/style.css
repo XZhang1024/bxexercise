@@ -1,0 +1,32 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald&display=swap"
+
+.navbar.bg-light{
+    background-color: #E39093!important;
+}
+
+.jumbotron{
+    background-image:url(img/bg.jpg);
+    background-size:cover;
+    
+}
+.btn-primary{
+    border-color: transparent;
+    background-color: #6A2E38;
+    
+}
+.btn-primary:hover{
+        border-color: transparent;
+    background-color: #E39093;
+    
+}
+
+h2, h3, h4, h5, h6{
+    font-family: 'Oswald', sans-serif;
+}
+.bg-secondary{
+    background-color: #75687F!important;
+    
+}
+
+@media screen and (max-width:370)
+    font-size:70px;
